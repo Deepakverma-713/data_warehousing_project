@@ -9,12 +9,14 @@ Bronze Layer: Stores raw data as-is from the source systems. Data is ingested fr
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 ---
+
 📖 Project Overview
 This project involves:
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 SQL Development
 Data Architect
@@ -23,6 +25,7 @@ ETL Pipeline Developer
 Data Modeling
 Data Analytics
 ---
+
 🛠️ Important Links & Tools:
 Everything is for Free!
 Datasets: Access to the project dataset (csv files).
@@ -33,6 +36,7 @@ DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: Get the Project Template from Notion
 Notion Project Steps: Access to All Project Phases and Tasks.
 ---
+
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
@@ -44,6 +48,7 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 ---
+
 BI: Analytics & Reporting (Data Analysis)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
@@ -52,6 +57,7 @@ Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 For more details, refer to docs/requirements.md.
+
 📂 Repository Structure
 ```
 data-warehouse-project/
